@@ -13,3 +13,9 @@ After creating images, please switch to the `docker` folder inside `udacity-c3-d
 ## CD
 
 The CD tool used here is travis. A new commit to this repository will create an automatic build.
+
+### Images in DockerHub
+
+* 9876556200/udacity-frontend
+* 9876556200/udacity-restapi-user
+* 9876556200/udacity-restapi-feed
