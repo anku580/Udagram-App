@@ -10,9 +10,9 @@ You nedd to first create docker images of each of the project folder.
 After creating images, please switch to the `docker` folder inside `udacity-c3-deployment` and then run the following command
 > docker-compose up
 
-## CD
+## CI
 
-The CD tool used here is travis. A new commit to this repository will create an automatic build.
+The CI tool used here is travis. A new commit to this repository will create an automatic build.
 
 ### Images in DockerHub
 
